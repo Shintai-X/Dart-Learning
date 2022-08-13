@@ -18,10 +18,10 @@ class Humain {
 }
 
 void main() {
-  Humain h0 = Humain("Nizar", "Seffar", 20);
-  Humain h1 = Humain("Nizar", "Seffar", 21);
-  Humain h2 = Humain("Nizar", "Seffar", 22);
-  Humain h3 = Humain("Nizar", "Seffar", 23);
+  Humain h0 = Humain("Nizar", "X", 20);
+  Humain h1 = Humain("Nizar", "X", 21);
+  Humain h2 = Humain("Nizar", "X", 22);
+  Humain h3 = Humain("Nizar", "X", 23);
   List<Humain> Hum = [h0, h1, h2, h3];
   for (int i = 0; i < Hum.length; i++) {
     Hum[i].Hello();
