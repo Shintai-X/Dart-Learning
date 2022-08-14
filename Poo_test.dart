@@ -30,3 +30,12 @@ void main() {
     x.Hello();
   }
 }
+// Dynamic List
+// List<String> names = List();
+//   names.add("Mana");
+//   names.add("Babu");
+//  names.add("Gopal");
+// names.add("Pota");
+
+
+
